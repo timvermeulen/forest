@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["forest_libp2p"] = [{"text":"impl ProtocolsHandler for <a class=\"struct\" href=\"forest_libp2p/rpc/struct.RPCHandler.html\" title=\"struct forest_libp2p::rpc::RPCHandler\">RPCHandler</a>","synthetic":false,"types":["forest_libp2p::rpc::handler::RPCHandler"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

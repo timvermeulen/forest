@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Method","Storage Miner actor methods available"]],"struct":[["Actor","Miner Actor"],["MinerInfo","Static information about miner"],["State","Miner actor state"]]});

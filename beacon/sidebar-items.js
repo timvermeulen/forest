@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BeaconEntry","The result from getting an entry from Drand."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["decode","Decode an RLE+ encoded bitset into its original form."],["encode","Encode the given bitset into their RLE+ encoded representation."]],"struct":[["BitVecDe","Wrapper for deserializing bit vector with RLE+ decoding from bytes."],["BitVecSer","Wrapper for serializing bit vector with RLE+ encoding"]]});
